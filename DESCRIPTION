@@ -1,0 +1,9 @@
+Package: RandLetter
+Type: Package
+Title: Generating a Random Letter
+Version: 0.1.0
+Date: 2019-11-20
+Author: Joselyne Umubyeyi
+Maintainer: Joselyne Umubyeyi <umujoselyn@gmail.com>
+Description: This returns a letter randomly
+License: What license is it under?
