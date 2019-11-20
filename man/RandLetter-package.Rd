@@ -5,7 +5,7 @@
 \title{
 \packageTitle{RandLetter}
 }
-\description{
+\description{ generating Random Letter
 \packageDescription{RandLetter}
 }
 \details{
@@ -13,23 +13,21 @@
 The DESCRIPTION file:
 \packageDESCRIPTION{RandLetter}
 \packageIndices{RandLetter}
-~~ An overview of how to use the package, including the most important functions ~~
+It basically randomly generates a random letter from the 26 letter alphabet
 }
 \author{
 \packageAuthor{RandLetter}
 
-Maintainer: \packageMaintainer{RandLetter}
+Maintainer:Joselyne Umubyeyi \packageMaintainer{RandLetter}
 }
 \references{
-~~ Literature or other references for background information ~~
+
 }
-~~ Optionally other standard keywords, one per line, from file KEYWORDS in the R documentation ~~
-~~ directory ~~
+
 \keyword{ package }
 \seealso{
-~~ Optional links to other man pages, e.g. ~~
-~~ \code{\link[<pkg>:<pkg>-package]{<pkg>}} ~~
+
 }
 \examples{
-~~ simple examples of the most important functions ~~
+
 }
